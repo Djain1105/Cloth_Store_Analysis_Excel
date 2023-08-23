@@ -17,3 +17,10 @@ Top 10 states contributing to the sales.
 Relation between age & gender based on number of orders.
 Channel with maximum sales contribution.
 Highest selling category.
+
+## Tools Used
+
+* Microsoft Excel
+
+Report Image
+![Report_Image]
