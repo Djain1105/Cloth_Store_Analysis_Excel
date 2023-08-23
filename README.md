@@ -23,4 +23,4 @@ Highest selling category.
 * Microsoft Excel
 
 Report Image
-![Report_Image]
+
