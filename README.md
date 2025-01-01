@@ -22,7 +22,7 @@ Highest selling category.
 
 * Microsoft Excel
 
-Report Snapshot
+## Report Snapshot
 ![Report_Image](https://github.com/Djain1105/Cloth_Store_Analysis_Excel/blob/main/Report_Image.png)
 
 
